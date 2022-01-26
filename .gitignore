@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.tlog
+.vcxproj
+
+Ex1 - Cipher/Father/Debug/
+Ex1 - Cipher/Son/Debug/
+Ex2 - Multi-threaded Grades Calculations/Ex2/Debug/
+Ex2 - Multi-threaded Grades Calculations/Ex2/x64/
+Ex3 - Page Table Implementation/Ex3/Debug/
+Ex4 - Server & Client 7-Boom Game/client/Debug/
+Ex4 - Server & Client 7-Boom Game/server/Debug/
+Ex4 - Server & Client 7-Boom Game/server/x64/
